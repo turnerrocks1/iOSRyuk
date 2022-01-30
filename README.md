@@ -1,4 +1,6 @@
 # iOSRyuk
+
+#Future Feature Plans as of 01/30/22 10:30AM central time: Add syscall table supprt, better variable renaming of IOKit functions and methods, fixup syscalls and oid list structs, automatically put externalMethod variable names.
 Forked from original @bxl1989 who then was forked by @userlandkernel who then was forked by @turnerhackz1 aka me.
 This tool was a core memory in my early days of reverse engineering and I loved this tool
 but it the original person never made a iOS version he only released a macOS kernelcache version, userlandkernel proceeded to use that as a base guide
